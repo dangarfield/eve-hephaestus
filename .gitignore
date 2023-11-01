@@ -1,0 +1,6 @@
+_data
+node_modules
+sde
+*.pdf
+.DS_Store
+generated-*.json

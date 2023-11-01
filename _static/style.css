@@ -1,0 +1,15 @@
+.controls {
+    height: 42px;
+}
+.data-table-container {
+    width: 100%;
+    height: calc(100vh - 42px);
+}
+.btn-tiny {
+    padding: 0 6px;
+}
+[open-contract]:hover,
+[open-market]:hover,
+[open-information]:hover {
+    cursor: pointer;
+}  
